@@ -29,7 +29,7 @@ const QuestionsList = [
     answersList: [
         {answer:"trägt zu einem besseren Wohlbefinden bei.", isCorrect:true},
         {answer:"schadet Ihrem Wohlbefinden.", isCorrect:false},
-        {answer:"stärkt das Wohlfühlen", isCorrect:false},
+        {answer:"stärkt das Wohlfühlen.", isCorrect:false},
         ]    
     },
     {question:"Sie können Ihr persönliches Fitnessprogramm",
@@ -80,7 +80,7 @@ const QuestionsList = [
     answersList: [
         {answer:"Bevor ich nach Hause fahre, gehe ich zum Training.", isCorrect:true},
         {answer:"Nach dem Training, fahre ich zur Arbeit.", isCorrect:false},
-        {answer:"Bevor ich trainiere, muss ich arbeiten. ", isCorrect:false},
+        {answer:"Bevor ich trainiere, muss ich arbeiten.", isCorrect:false},
         ]    
     },
     {question:"Was machen Sie vor der Arbeit?",
@@ -125,11 +125,11 @@ const QuestionsList = [
         {answer:"den Interessenten eine Aufgabe zu geben.", isCorrect:false},
         ]    
     },
-    {question:"Ein attraktiver Arbeitgeber ist jemand,",
+    {question:"Ein attraktiver Arbeitgeber ist jemand, der",
     answersList: [
-        {answer:"der gute Aufstiegschancen bietet.", isCorrect:true},
-        {answer:"der schöne Arbeitsplätze schafft.", isCorrect:false},
-        {answer:"der weiß, was die Mitarbeiter wünschen.", isCorrect:false},
+        {answer:"gute Aufstiegschancen bietet.", isCorrect:true},
+        {answer:"schöne Arbeitsplätze schafft.", isCorrect:false},
+        {answer:"weiß, was die Mitarbeiter wünschen.", isCorrect:false},
         ]    
     },
     {question:"Ein gutes Betriebsklima",
@@ -179,7 +179,7 @@ const QuestionsList = [
     {question:"Was feiern die Leute da auf dem Platz?",
     answersList: [
         {answer:"Das sollte das Maifest sein.", isCorrect:false},
-        {answer:"Das müsste das Sommerfest sein", isCorrect:true},
+        {answer:"Das müsste das Sommerfest sein.", isCorrect:true},
         {answer:"Das war der Weihnachtsmarkt.", isCorrect:false},
         ]    
     },
